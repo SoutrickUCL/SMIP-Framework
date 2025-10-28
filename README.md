@@ -81,12 +81,13 @@ If you use this code, please cite:
 
 ## License
 
-Academic and research use only. For commercial use, contact: christopher.barnes@ucl.ac.uk/soutrick.das@ucl.ac.uk
+Academic and research use only. For commercial use inquiries, please contact the authors.
 
 ---
 
 ## Contact
 
-**Chris Barnes**: christopher.barnes@ucl.ac.uk  
-**Soutrick Das**: soutrick.das@ucl.ac.uk /
+- **Chris Barnes**: christopher.barnes@ucl.ac.uk  
+- **Soutrick Das**: soutrick.das@ucl.ac.uk
+
 Department of Cell and Developmental Biology, University College London
