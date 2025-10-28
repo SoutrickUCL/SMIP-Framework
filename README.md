@@ -88,5 +88,5 @@ Academic and research use only. For commercial use, contact: christopher.barnes@
 ## Contact
 
 **Chris Barnes**: christopher.barnes@ucl.ac.uk  
-**Soutrick Das**: soutrick.das@ucl.ac.uk
+**Soutrick Das**: soutrick.das@ucl.ac.uk /
 Department of Cell and Developmental Biology, University College London
