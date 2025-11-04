@@ -37,7 +37,7 @@ python run.py --gates OR
 
 | Module | Complexity | Layers | Description | Usage |
 |--------|-----------|---------|-------------|-------|
-| **1. Logic Gates** | Low | 1 | 5 gates (OR, AND, NOR, NAND, XOR), 2 inputs | `python run.py --gates OR` |
+| **1. Logic Gates** | Low | 1 | 4 gates (OR, AND, NOR, NAND), 2 inputs | `python run.py --gates OR` |
 | **2. Binary Classifier** | Medium | 1 | Prime/PerfectPower/Vowel, 4 binary inputs | `python run.py --ops Prime` |
 | **3. Disease Classifier** | High | 2 | KIRC classification, 3 biomarkers, optimizes activation params | `python run.py` |
 
